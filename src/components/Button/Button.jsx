@@ -7,7 +7,7 @@ const Button = ({ children, type = "button", className = "" }) => {
     dark:bg-purple-600 dark:hover:bg-purple-700
     focus:outline-none dark:focus:ring-purple-800
   `;
- 
+//  for commit
   return (
     <button type={type} className={`${baseClasses} ${className}`}>
       {children}
