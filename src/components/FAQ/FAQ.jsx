@@ -2,7 +2,7 @@
 import { useState } from "react";
 import SectionTitle from "../SectionTitle";
 import FAQItem from "./FAQItem";
-// comment for github push
+// comment for github ash ////
 const FAQ = () => {
   const [openIndex, setOpenIndex] = useState(0); // first item open
 
