@@ -1,5 +1,15 @@
 # React + Vite
 
+
+### Push In LWS CLASSRoOM PRIVATE REPO 
+- git push code main
+- https://github.com/Learn-with-Sumit/batch-3-assignment-1-agency-landing-page-nhshowrab586
+
+
+### PUSH In MY PUBLIC REPO
+- git push origin main
+- https://github.com/nhshowrab586/assignment-1-agency-landing-page 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
